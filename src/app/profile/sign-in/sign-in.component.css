@@ -1,0 +1,36 @@
+.main {
+  margin: 20px;
+  height: 300px;
+}
+
+div {
+  margin: auto;
+}
+
+.signin-container {
+  width: 80%;
+  margin-top: 50px;
+}
+
+mat-form-field {
+  width: -webkit-fill-available;
+}
+
+.mat-mdc-dialog-surface, .mdc-dialog__surface {
+  margin: auto;
+}
+
+.button-loc {
+  margin: auto;
+  width: 90px;
+  margin-top:50px;
+}
+:host {
+  background-color: #563f3f; /* Replace with your desired color */
+  display: block;
+}
+
+.forgot{
+  color: blue;
+  position: relative;
+}

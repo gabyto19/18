@@ -1,0 +1,20 @@
+.main{
+    position: absolute;
+    height: 50px;
+    width: 20%;
+    margin: 2%;
+    background-color: purple;
+    border-radius: 34px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.main img{
+    height: 70%;
+    border-radius: inherit;
+}
+.main button{
+    border-radius: 15px;
+    background: orange;
+    border: none;
+}
